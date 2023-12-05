@@ -1,0 +1,234 @@
+create database PESCAMAX;
+
+
+-- Crear tabla de Clientes
+CREATE TABLE Clientes (
+    ClienteID INT PRIMARY KEY,
+    NombreCliente VARCHAR(100),
+    Email VARCHAR(50),
+    Telefono VARCHAR(15)
+);
+
+
+INSERT INTO Clientes (ClienteID, NombreCliente, Email, Telefono)
+VALUES
+(1, 'Juan Pérez', 'juan@example.com', '123-456-7890'),
+(2, 'María García', 'maria@example.com', '987-654-3210'),
+(3, 'Carlos Rodríguez', 'carlos@example.com', '555-123-4567');
+
+--procedimientos almacendos LISTAR 
+create proc sp_listar_Clientes
+as
+begin 
+     select ClienteID, NombreCliente, Email, Telefono
+     from Clientes
+end
+
+ exec sp_listar_Clientes
+
+
+
+
+ -- Procedimiento Almacenado de Guardar Producto (sp_guardar_producto) CON Transacción
+create procedure sp_guardar_Clientes(
+    @ClienteID INT,
+    @NombreCliente VARCHAR(100),
+    @Email VARCHAR(50),
+    @Telefono VARCHAR(15)
+)
+as
+begin
+   begin transaction; -- Inicio de la transacción
+
+   begin try
+      insert into Clientes(ClienteID, NombreCliente, Email, Telefono)
+      values (@ClienteID, @NombreCliente, @Email, @Telefono);
+
+      commit; -- Confirmación de la transacción
+   end try
+   begin catch
+      rollback; -- Deshacer la transacción en caso de error
+   end catch
+end
+
+
+-- Procedimiento Almacenado de Editar Producto (sp_editar_producto) CON Transacción
+create procedure sp_editar_Clientes(
+    @ClienteID INT,
+    @NombreCliente VARCHAR(100),
+    @Email VARCHAR(50),
+    @Telefono VARCHAR(15)
+)
+as 
+begin
+   begin transaction; -- Inicio de la transacción
+
+   begin try
+      update Clientes set 
+         NombreCliente = isnull(@NombreCliente, NombreCliente),
+         Email = isnull(@Email, Email),
+         Telefono = isnull(@Telefono, Telefono)
+      where ClienteID = @ClienteID;
+
+      commit; -- Confirmación de la transacción
+   end try
+   begin catch
+      rollback; -- Deshacer la transacción en caso de error
+   end catch
+end
+
+
+
+
+--create procedimiento almacenado de eliminar 
+create procedure sp_eliminar_Clientes(
+   @ClienteID int
+)
+as 
+begin
+   begin transaction; -- Inicio de la transacción
+
+   begin try
+      delete from Clientes where ClienteID = @ClienteID;
+
+      commit; -- Confirmación de la transacción
+   end try
+   begin catch
+      rollback; -- Deshacer la transacción en caso de error
+   end catch
+end
+
+
+
+
+
+
+CREATE TABLE Ganancias (
+    GananciaID INT PRIMARY KEY,
+    FechaGanancia VARCHAR(20),
+    Descripcion VARCHAR(255),
+    Monto DECIMAL(18, 2),
+    Notas VARCHAR(50)
+);
+
+INSERT INTO Ganancias (GananciaID, FechaGanancia, Descripcion, Monto, Notas)
+VALUES
+(1, '2023-01-20', 'Venta de productos', 1000.00, 'Ingresos generales'),
+(2, '2023-02-05', 'Servicios de consultoría', 1500.00, 'Ingresos por servicios'),
+(3, '2023-03-10', 'Inversiones', 500.00, 'Ingresos financieros');
+
+--procedimientos almacendos LISTAR 
+create proc sp_listar_Ganancias
+as
+begin 
+     select GananciaID, FechaGanancia, Descripcion, Monto, Notas
+     from Ganancias
+end
+
+ exec sp_listar_Ganancias
+
+
+
+
+ -- Procedimiento Almacenado de Guardar Producto (sp_guardar_producto) CON Transacción
+create procedure sp_guardar_Ganancias(
+    @GananciaID INT ,
+    @FechaGanancia VARCHAR(20),
+    @Descripcion VARCHAR(255),
+    @Monto DECIMAL(18, 2),
+    @Notas VARCHAR(50)
+)
+as
+begin
+   begin transaction; -- Inicio de la transacción
+
+   begin try
+      insert into Ganancias(GananciaID, FechaGanancia, Descripcion, Monto, Notas)
+      values (@GananciaID, @FechaGanancia, @Descripcion, @Monto, @Notas);
+
+      commit; -- Confirmación de la transacción
+   end try
+   begin catch
+      rollback; -- Deshacer la transacción en caso de error
+   end catch
+end
+
+
+-- Procedimiento Almacenado de Editar Producto (sp_editar_producto) CON Transacción
+create procedure sp_editar_Ganancias(
+    @GananciaID INT ,
+    @FechaGanancia VARCHAR(20),
+    @Descripcion VARCHAR(255),
+    @Monto DECIMAL(18, 2),
+    @Notas VARCHAR(50)
+)
+as 
+begin
+   begin transaction; -- Inicio de la transacción
+
+   begin try
+      update Ganancias set 
+         FechaGanancia = isnull(@FechaGanancia, FechaGanancia),
+         Descripcion = isnull(@Descripcion, Descripcion),
+         Monto = isnull(@Monto, Monto),
+         Notas = isnull(@Notas, Notas)
+      where GananciaID = @GananciaID;
+
+      commit; -- Confirmación de la transacción
+   end try
+   begin catch
+      rollback; -- Deshacer la transacción en caso de error
+   end catch
+end
+
+
+
+
+--create procedimiento almacenado de eliminar 
+create procedure sp_eliminar_Ganancias(
+   @GananciaID int
+)
+as 
+begin
+   begin transaction; -- Inicio de la transacción
+
+   begin try
+      delete from Ganancias where GananciaID = @GananciaID;
+
+      commit; -- Confirmación de la transacción
+   end try
+   begin catch
+      rollback; -- Deshacer la transacción en caso de error
+   end catch
+end
+
+
+CREATE TABLE Gastos (
+    GastoID INT PRIMARY KEY,
+    FechaGasto varchar(20),
+    TipoGasto VARCHAR(50),
+    Descripcion VARCHAR(255),
+    Monto DECIMAL(10, 2),
+    Notas VARCHAR(50)
+);
+----------------------------------------------------produccion
+create table produccion
+(
+id_lote int identity primary key,
+cantidad int,
+fecha_inicio varchar(50),
+fecha_finalizacion varchar(50),
+vendido char(2)
+)
+------------------------------------------------------productividad
+create table productividad
+(
+id int identity primary key,
+Fecha varchar (20),
+NumerodeLote varchar(20),
+CantidadPeces int,
+PesoTotal int,	---Peso total de los peces 
+alimentoConsumido int,
+costoAlimento int,
+tasaMortalidad decimal(3,1)
+)
