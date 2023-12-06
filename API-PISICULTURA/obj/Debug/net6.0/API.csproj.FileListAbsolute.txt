@@ -1,0 +1,205 @@
+C:\Users\SENA\Desktop\Proyecto API\API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\SENA\Desktop\Proyecto API\API\bin\Debug\net6.0\appsettings.json
+C:\Users\SENA\Desktop\Proyecto API\API\bin\Debug\net6.0\API.exe
+C:\Users\SENA\Desktop\Proyecto API\API\bin\Debug\net6.0\API.deps.json
+C:\Users\SENA\Desktop\Proyecto API\API\bin\Debug\net6.0\API.runtimeconfig.json
+C:\Users\SENA\Desktop\Proyecto API\API\bin\Debug\net6.0\API.dll
+C:\Users\SENA\Desktop\Proyecto API\API\bin\Debug\net6.0\API.pdb
+C:\Users\SENA\Desktop\Proyecto API\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\SENA\Desktop\Proyecto API\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SENA\Desktop\Proyecto API\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SENA\Desktop\Proyecto API\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SENA\Desktop\Proyecto API\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+C:\Users\SENA\Desktop\Proyecto API\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENA\Desktop\Proyecto API\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+C:\Users\SENA\Desktop\Proyecto API\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+C:\Users\SENA\Desktop\Proyecto API\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+C:\Users\SENA\Desktop\Proyecto API\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SENA\Desktop\Proyecto API\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SENA\Desktop\Proyecto API\API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\SENA\Desktop\Proyecto API\API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\SENA\Desktop\Proyecto API\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+C:\Users\SENA\Desktop\Proyecto API\API\obj\Debug\net6.0\API.csproj.CopyComplete
+C:\Users\SENA\Desktop\Proyecto API\API\obj\Debug\net6.0\API.dll
+C:\Users\SENA\Desktop\Proyecto API\API\obj\Debug\net6.0\refint\API.dll
+C:\Users\SENA\Desktop\Proyecto API\API\obj\Debug\net6.0\API.pdb
+C:\Users\SENA\Desktop\Proyecto API\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+C:\Users\SENA\Desktop\Proyecto API\API\obj\Debug\net6.0\ref\API.dll
+C:\Users\SENA\Desktop\Proyecto API\API\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\SENA\Desktop\Proyecto API\API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\SENA\Desktop\Proyecto API\API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\SENA\Desktop\Proyecto API\API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\SENA\Desktop\Proyecto API\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\SENA\Desktop\Proyecto API\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\SENA\Desktop\Proyecto API\API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\SENA\Desktop\Proyecto API\API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\SENA\Desktop\Proyecto API\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SENA\Desktop\Proyecto API\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\SENA\Desktop\Proyecto API\API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\SENA\Desktop\Proyecto API\API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\SENA\Desktop\Proyecto API\API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\SENA\Desktop\Proyecto API\API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\SENA\Desktop\Proyecto API\API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\SENA\Desktop\Proyecto API\API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\SENA\Desktop\Proyecto API\API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\SENA\Desktop\Proyecto API\API\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\SENA\Desktop\Proyecto API\API\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\SENA\Desktop\Proyecto API\API\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\SENA\Desktop\Proyecto API\API\bin\Debug\net6.0\Microsoft.Extensions.Hosting.dll
+C:\Users\SENA\Desktop\Proyecto API\API\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\SENA\Desktop\Proyecto API\API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\SENA\Desktop\Proyecto API\API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\SENA\Desktop\Proyecto API\API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\SENA\Desktop\Proyecto API\API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\SENA\Desktop\Proyecto API\API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\SENA\Desktop\Proyecto API\API\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\SENA\Desktop\Proyecto API\API\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\SENA\Desktop\Proyecto API\API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\SENA\Desktop\Proyecto API\API\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\SENA\Desktop\Proyecto API\API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SENA\Desktop\Proyecto API\API\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\SENA\Desktop\Proyecto API\API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\SENA\Desktop\Proyecto API\API\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\SENA\Desktop\Proyecto API\API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\SENA\Desktop\Proyecto API\API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\SENA\Desktop\Proyecto API\API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API\obj\Debug\net6.0\API.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API\obj\Debug\net6.0\refint\API.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API\obj\Debug\net6.0\API.pdb
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API\bin\Debug\net6.0\appsettings.Development.json
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API\bin\Debug\net6.0\appsettings.json
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API\bin\Debug\net6.0\API.exe
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API\bin\Debug\net6.0\API.deps.json
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API\bin\Debug\net6.0\API.runtimeconfig.json
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API\bin\Debug\net6.0\API.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API\bin\Debug\net6.0\API.pdb
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API\bin\Debug\net6.0\Microsoft.Extensions.Hosting.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Debug.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventLog.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventSource.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API\bin\Debug\net6.0\System.Text.Json.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API\obj\Debug\net6.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API\obj\Debug\net6.0\staticwebassets\msbuild.build.API.props
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API.props
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API\obj\Debug\net6.0\staticwebassets.pack.json
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API\obj\Debug\net6.0\staticwebassets.build.json
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API\obj\Debug\net6.0\staticwebassets.development.json
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API\obj\Debug\net6.0\API.csproj.CopyComplete
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API\obj\Debug\net6.0\ref\API.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API-PISICULTURA\bin\Debug\net6.0\appsettings.Development.json
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API-PISICULTURA\bin\Debug\net6.0\appsettings.json
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API-PISICULTURA\bin\Debug\net6.0\API.exe
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API-PISICULTURA\bin\Debug\net6.0\API.deps.json
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API-PISICULTURA\bin\Debug\net6.0\API.runtimeconfig.json
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API-PISICULTURA\bin\Debug\net6.0\API.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API-PISICULTURA\bin\Debug\net6.0\API.pdb
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API-PISICULTURA\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API-PISICULTURA\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API-PISICULTURA\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API-PISICULTURA\bin\Debug\net6.0\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API-PISICULTURA\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API-PISICULTURA\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API-PISICULTURA\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API-PISICULTURA\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API-PISICULTURA\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API-PISICULTURA\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API-PISICULTURA\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API-PISICULTURA\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API-PISICULTURA\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API-PISICULTURA\bin\Debug\net6.0\Microsoft.Extensions.Hosting.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API-PISICULTURA\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API-PISICULTURA\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API-PISICULTURA\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API-PISICULTURA\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API-PISICULTURA\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API-PISICULTURA\bin\Debug\net6.0\Microsoft.Extensions.Logging.Debug.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API-PISICULTURA\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventLog.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API-PISICULTURA\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventSource.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API-PISICULTURA\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API-PISICULTURA\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API-PISICULTURA\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API-PISICULTURA\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API-PISICULTURA\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API-PISICULTURA\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API-PISICULTURA\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API-PISICULTURA\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API-PISICULTURA\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API-PISICULTURA\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API-PISICULTURA\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API-PISICULTURA\bin\Debug\net6.0\System.Text.Json.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API-PISICULTURA\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API-PISICULTURA\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API-PISICULTURA\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API-PISICULTURA\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API-PISICULTURA\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API-PISICULTURA\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API-PISICULTURA\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API-PISICULTURA\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API-PISICULTURA\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API-PISICULTURA\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API-PISICULTURA\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API-PISICULTURA\obj\Debug\net6.0\API.AssemblyInfo.cs
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API-PISICULTURA\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API-PISICULTURA\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API-PISICULTURA\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API-PISICULTURA\obj\Debug\net6.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API-PISICULTURA\obj\Debug\net6.0\staticwebassets\msbuild.build.API.props
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API-PISICULTURA\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API-PISICULTURA\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API.props
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API-PISICULTURA\obj\Debug\net6.0\staticwebassets.pack.json
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API-PISICULTURA\obj\Debug\net6.0\staticwebassets.build.json
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API-PISICULTURA\obj\Debug\net6.0\staticwebassets.development.json
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API-PISICULTURA\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API-PISICULTURA\obj\Debug\net6.0\API.csproj.CopyComplete
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API-PISICULTURA\obj\Debug\net6.0\API.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API-PISICULTURA\obj\Debug\net6.0\refint\API.dll
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API-PISICULTURA\obj\Debug\net6.0\API.pdb
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API-PISICULTURA\obj\Debug\net6.0\API.genruntimeconfig.cache
+D:\ADSONOCHEB\4trimestre jenny\API 4TRIMESTRE\API-PISICULTURA\obj\Debug\net6.0\ref\API.dll
